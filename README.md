@@ -1,4 +1,4 @@
-Aoijs üzerinden kodlanmış botlist boti
+Aoijs üzerinden kodlanmış botlist botlist
 Özellikler:
 Botlar için otorol
 Sahibi çıkan botları kickleme
